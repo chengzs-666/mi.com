@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+i,
+b {
+  font-style: normal;
+}
+ul {
+  overflow: hidden;
+}
+ul li {
+  list-style: none;
+  float: left;
+}
+ul li a {
+  text-decoration: none;
+  display: block;
+}
+a {
+  text-decoration: none;
+  display: block;
+}
+.wrapper {
+  width: 1226px;
+  margin: 0 auto;
+}
