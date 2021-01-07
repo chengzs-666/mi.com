@@ -1,5 +1,6 @@
 .main {
   background: #f1f1f1;
+  padding-bottom: 30px;
 }
 .main .secsall {
   overflow: hidden;
@@ -217,4 +218,329 @@
 .main .jiadian .titlebox .a-box a:nth-child(1) {
   text-decoration: underline;
   color: #ff6700;
+}
+.main .jiadian .mainbox {
+  overflow: hidden;
+}
+.main .jiadian .mainbox .lisell2 {
+  display: none;
+}
+.main .jiadian .mainbox ul {
+  overflow: hidden;
+}
+.main .jiadian .mainbox ul li {
+  float: left;
+  height: 300px;
+  width: 234px;
+  margin-right: 11px;
+  margin-bottom: 12px;
+  text-align: center;
+  background: #ffffff;
+}
+.main .jiadian .mainbox ul:nth-child(1) {
+  width: 234px;
+  float: left;
+  margin-right: 11px;
+}
+.main .jiadian .mainbox ul:nth-child(2) {
+  float: left;
+  width: 980px;
+}
+.main .jiadian .mainbox ul:nth-child(2) li img {
+  padding-top: 10px;
+}
+.main .jiadian .mainbox ul:nth-child(2) li p:nth-child(2) {
+  color: #222222;
+  font-size: 14px;
+  line-height: 20px;
+}
+.main .jiadian .mainbox ul:nth-child(2) li p:nth-child(3) {
+  color: #aaaaaa;
+  font-size: 13px;
+}
+.main .jiadian .mainbox ul:nth-child(2) li span {
+  line-height: 55px;
+  color: #ff6700;
+}
+.main .jiadian .mainbox ul:nth-child(2) li del {
+  padding-left: 10px;
+  color: #aaaaaa;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) {
+  user-select: none;
+  cursor: pointer;
+  background: #f1f1f1;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .litop {
+  width: 100%;
+  height: 143px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background: #ffffff;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .litop .litopleft {
+  float: left;
+  width: 94px;
+  height: 60px;
+  font-size: 14px;
+  text-align: left;
+  color: #222222;
+  margin-top: 35px;
+  margin-left: 30px;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .litop .litopleft span {
+  line-height: 35px;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .litop .litopright {
+  float: left;
+  width: 80px;
+  height: 80px;
+  margin-top: 22px;
+  margin-left: 10px;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .libot {
+  width: 100%;
+  height: 143px;
+  overflow: hidden;
+  background: #ffffff;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .libot .libotleft {
+  float: left;
+  margin-top: 40px;
+  margin-left: 30px;
+  font-size: 20px;
+  color: #222222;
+  text-align: left;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .libot .libotleft b {
+  font-weight: normal;
+  font-size: 14px;
+  color: #888888;
+  text-align: left;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .libot .libotright {
+  float: left;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.main .jiadian .mainbox ul:nth-child(2) li:nth-child(8) .libot .libotright i {
+  display: block;
+  width: 46px;
+  height: 46px;
+  border: 3px solid #ff6700;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 46px;
+  font-size: 30px;
+  color: #ff6700;
+}
+.main .smart {
+  overflow: hidden;
+}
+.main .smart .titlebox {
+  height: 58px;
+  position: relative;
+}
+.main .smart .titlebox h2 {
+  font-size: 25px;
+  line-height: 58px;
+}
+.main .smart .titlebox .a-box {
+  position: absolute;
+  right: 0;
+  top: 40%;
+  overflow: hidden;
+}
+.main .smart .titlebox .a-box a {
+  float: left;
+  margin-left: 40px;
+  font-size: 20px;
+  color: #222222;
+}
+.main .smart .titlebox .a-box a:nth-child(1) {
+  text-decoration: underline;
+  color: #ff6700;
+}
+.main .smart .mainbox {
+  overflow: hidden;
+}
+.main .smart .mainbox .lisell2 {
+  display: none;
+}
+.main .smart .mainbox ul {
+  overflow: hidden;
+}
+.main .smart .mainbox ul li {
+  float: left;
+  height: 300px;
+  width: 234px;
+  margin-right: 11px;
+  margin-bottom: 12px;
+  text-align: center;
+  background: #ffffff;
+}
+.main .smart .mainbox ul:nth-child(1) {
+  width: 234px;
+  float: left;
+  margin-right: 11px;
+}
+.main .smart .mainbox ul:nth-child(2) {
+  float: left;
+  width: 980px;
+}
+.main .smart .mainbox ul:nth-child(2) li img {
+  padding-top: 10px;
+}
+.main .smart .mainbox ul:nth-child(2) li p:nth-child(2) {
+  color: #222222;
+  font-size: 14px;
+  line-height: 20px;
+}
+.main .smart .mainbox ul:nth-child(2) li p:nth-child(3) {
+  color: #aaaaaa;
+  font-size: 13px;
+}
+.main .smart .mainbox ul:nth-child(2) li span {
+  line-height: 55px;
+  color: #ff6700;
+}
+.main .smart .mainbox ul:nth-child(2) li del {
+  padding-left: 10px;
+  color: #aaaaaa;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) {
+  user-select: none;
+  cursor: pointer;
+  background: #f1f1f1;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .litop {
+  width: 100%;
+  height: 143px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  background: #ffffff;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .litop .litopleft {
+  float: left;
+  width: 94px;
+  height: 60px;
+  font-size: 14px;
+  text-align: left;
+  color: #222222;
+  margin-top: 35px;
+  margin-left: 30px;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .litop .litopleft span {
+  line-height: 35px;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .litop .litopright {
+  float: left;
+  width: 80px;
+  height: 80px;
+  margin-top: 22px;
+  margin-left: 10px;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .libot {
+  width: 100%;
+  height: 143px;
+  overflow: hidden;
+  background: #ffffff;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .libot .libotleft {
+  float: left;
+  margin-top: 40px;
+  margin-left: 30px;
+  font-size: 20px;
+  color: #222222;
+  text-align: left;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .libot .libotleft b {
+  font-weight: normal;
+  font-size: 14px;
+  color: #888888;
+  text-align: left;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .libot .libotright {
+  float: left;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.main .smart .mainbox ul:nth-child(2) li:nth-child(8) .libot .libotright i {
+  display: block;
+  width: 46px;
+  height: 46px;
+  border: 3px solid #ff6700;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 46px;
+  font-size: 30px;
+  color: #ff6700;
+}
+.main .video .titlebox {
+  height: 58px;
+  position: relative;
+}
+.main .video .titlebox h2 {
+  font-size: 25px;
+  line-height: 58px;
+}
+.main .video .titlebox span {
+  position: absolute;
+  right: 0px;
+  bottom: 3px;
+  font-size: 20px;
+  transition: all 0.8s;
+}
+.main .video .titlebox span i {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  background: #888888;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 18px;
+  color: #ffffff;
+  font-weight: 900;
+  transition: all 0.8s;
+}
+.main .video .titlebox span:hover {
+  color: #ff6700;
+}
+.main .video .titlebox span:hover i {
+  background: #ff6700;
+}
+.main .video ul {
+  overflow: hidden;
+}
+.main .video ul li {
+  width: 296px;
+  height: 285px;
+  background: #ffffff;
+  position: relative;
+  margin-right: 10.5px;
+}
+.main .video ul li img {
+  width: 296px;
+  height: 180px;
+}
+.main .video ul li i:nth-child(2) {
+  position: absolute;
+  top: 150px;
+  left: 20px;
+  display: block;
+  width: 35px;
+  height: 20px;
+  background: red;
+}
+.main .video ul li p:nth-child(3) {
+  text-align: center;
+  font-size: 15px;
+  color: #222222;
+  padding-top: 25px;
+}
+.main .video ul li p:nth-child(4) {
+  text-align: center;
+  font-size: 13px;
+  color: #aaaaaa;
+  line-height: 40px;
 }
